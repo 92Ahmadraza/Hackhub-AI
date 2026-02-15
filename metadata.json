@@ -1,0 +1,7 @@
+{
+  "name": "Copy of HackHub AI - The Hackathon Command Center",
+  "description": "A comprehensive hackathon management platform featuring AI-powered brainstorming, project evaluation, and a real-time voice-enabled technical mentor powered by Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
